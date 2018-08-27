@@ -14,7 +14,7 @@ e_getQ.py gaussian.log -option
 - Options:   npa,chelpg,mulliken,all
 - Example:   
 ```console
-e_getQ.py gaussian.log -all
+e_getQ.py gaussian.log -mulliken
 ```
 
 ## Typical output
