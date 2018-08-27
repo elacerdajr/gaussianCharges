@@ -20,6 +20,7 @@ e_getQ.py gaussian.log -option
 
 For a 2-Me-pyrrole:
 
+<pre>
 ===== MULLIKEN CHARGES <=====
 #n    atom         charge
 ------------------------------
@@ -37,4 +38,4 @@ For a 2-Me-pyrrole:
 12    H          0.039473
 13    H          0.039475
 ==============================
-
+</pre>
