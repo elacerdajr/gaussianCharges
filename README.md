@@ -8,13 +8,13 @@ Script to read the atomic charges in an o Gaussian 09 output file.
 ## Usage     
 
 ```console
-e_getQ.py gaussian.log -option
+e_gaussianCharges.py gaussian.log -option
 ```
 
 - Options:   npa,chelpg,mulliken,all
 - Example:   
 ```console
-e_getQ.py gaussian.log -mulliken
+e_gaussianCharges.py gaussian.log -mulliken
 ```
 
 ## Typical output
